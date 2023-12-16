@@ -1,0 +1,8 @@
+Expression
+
+An expression = values + operators
+
+Order of Operations:
+1) Parentheses
+2) Multiplication/Division
+3) Addition/Substraction
